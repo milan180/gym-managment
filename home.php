@@ -118,7 +118,7 @@ else
 <div class="copy"> 2013<sup>�</sup> Copyright ABOUT-FITNESS All Rights Reserved </div>
 
 <div class="web">
-  <p><a href="http://www.facebook.com/navgag333" target="_blank">Creator</a></p>
+  <p><a href= target="_blank">Creator</a></p>
 </div>
 
 </div>
